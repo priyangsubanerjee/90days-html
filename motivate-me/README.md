@@ -1,6 +1,6 @@
 # Motivating Button
 
-Alas! you have started buiilding your first `web` project and we are aiming to a simple webpage that alerts the audience with some motivational quotes on some click events.
+Alas! you have started buiilding your first `web` project and we are aiming to a simple webpage that alerts the audience with some motivational quotes on some click events. [View live site](https://priyangsubanerjee.github.io/90days-html/motivate-me/)
 
 ## Getting started
 
