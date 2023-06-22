@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* style the button */
+
+#motivate {
+  border: none;
+  outline: none;
+  height: 50px;
+  width: 200px;
+  border: 1px solid #dbdbdb;
+  background-color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  font-size: 16px;
+}
