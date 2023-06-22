@@ -8,11 +8,24 @@ Alas! you have started buiilding your first `web` project and we are aiming to a
 - Open it using your favourite IDE
 - Inside the same folder create 3 more files `index.html` `style.css` `script.js`
 
-- `index.html` will contain the skeleton structure of your webpage which includes the necessary html components such as buttons, paragraphs, headings, alerts
+### Folder structure
 
-- `style.css` refers to the cascading style sheet which will indeed stye the skeleton of your project
+```bash
+folder
+|
+|---index.html
+|
+|---style.css
+|
+|---script.js
 
-- `script.js` will contain all the javascript code necessary, from listening for an event to show an output after necessary computations.
+```
+
+- `index.html` will contain the skeleton structure of your webpage which includes the necessary html components such as buttons, paragraphs, headings, alerts. [View code](https://github.com/priyangsubanerjee/90days-html/blob/main/motivate-me/index.html)
+
+- `style.css` refers to the cascading style sheet which will indeed stye the skeleton of your project. [View code](https://github.com/priyangsubanerjee/90days-html/blob/main/motivate-me/style.css)
+
+- `script.js` will contain all the javascript code necessary, from listening for an event to show an output after necessary computations. [View code](https://github.com/priyangsubanerjee/90days-html/blob/main/motivate-me/script.js)
 
 ### Output
 
